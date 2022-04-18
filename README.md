@@ -1,3 +1,4 @@
 # lien-projets-hors-github
-# Réalisation d'un portefolio wordpress: projet d'ecole: 
+# projet d'ecole
+# Réalisation d'un portefolio: wordpress, html, css, php 
 # http://ebouportfolio.epizy.com
